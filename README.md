@@ -1,19 +1,19 @@
-# DEPENDENCIA
+# Dependencia
 PyCurrency-Converter
 BeautifulSoup
 urllib
 
-# LIBRERIA PARA INTERFAZ
+# Libreria para interfaz
 pyqt5
 
-# POSIBLE ESTRUCTURA PARA LA INTERFAZ
+# Posible estructura
 Navbar
 Toolbar
 Statusbar
 Main
 MainApplication
 
-# ESTRUCTURA PARA LOS DIRECTORIOS
+# Estructura de un proyecto
 Project/
 |-- bin/
 |   |-- project

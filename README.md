@@ -36,8 +36,8 @@ Project/<br>
 |-- requirements.txt<br>
 |-- README<br>
 
-/scripts or /bin for that kind of command-line interface stuff
-/tests for your tests
-/lib for your C-language libraries
-/doc for most documentation
-/apidoc for the Epydoc-generated API docs.
+/scripts or /bin for that kind of command-line interface stuff<br>
+/tests for your tests<br>
+/lib for your C-language libraries<br>
+/doc for most documentation<br>
+/apidoc for the Epydoc-generated API docs.<br>

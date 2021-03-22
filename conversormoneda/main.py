@@ -125,7 +125,7 @@ class MainApplication(QMainWindow):
                                    str(self.currency.convert(amount, currency, new_currency)))
 
 
-if __name__ == "__main__":
+def run():
     app = QApplication(sys.argv)
     ex = MainApplication()
     sys.exit(app.exec_())

@@ -5,7 +5,8 @@
   <li>urllib</li>
 </ul>
 
-
+## RUN
+python setup.py
 
 ## Libreria para interfaz
 pyqt5
